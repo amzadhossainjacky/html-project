@@ -1,0 +1,33 @@
+table {
+
+    border-color: #000;
+    border-collapse:collapse;
+    width: 100%;  
+}
+
+
+th {
+    
+   
+    background-color: rgba(88, 92, 100, 0.884);
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+}
+
+td {
+
+    background-color: #fbbc05;
+    color:#000;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+}
+
+#tagName {
+    width: 12%;
+}
+#serial {
+
+    width: 5%;
+}
